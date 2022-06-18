@@ -40,8 +40,8 @@ public class Utils {
     //--------IronSource-------------
     public static String IRONSOURCE_ID="14fd6b8f9";
     //-------------Active Ads -----------
-    public static String inter_type="applovin";
-    public static String banner_type="applovin";
+    public static String inter_type="admob";
+    public static String banner_type="admob";
     public static String native_type="applovin";
     public static String rewarde_type="applovin";
     //-------------CPA -----------
